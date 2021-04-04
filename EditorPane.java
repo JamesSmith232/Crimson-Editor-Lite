@@ -2,11 +2,6 @@
 	Class EditorPane is a subclass of BorderPane
 		-contains a scrollable, editable text area
 		 in the center
-
-	Author: James Smith
-	E-mail address: jsmith1863@kctcs.edu
-	Last changed: May 7, 2019
-	CIT 249 Assignment 03
 **/
 
 import javafx.scene.layout.BorderPane;
