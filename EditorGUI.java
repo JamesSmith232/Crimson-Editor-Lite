@@ -4,11 +4,6 @@
 		-choose to create new classes
 		-add buttons, labels, textfields, etc., by clicking buttons
 		-could not get the tabs and EditorPane to work
-
-	Author: James Smith
-	E-mail address: jsmith1863@kctcs.edu
-	Last changed: May 7, 2019
-	CIT 249 Assignment 03
 **/
 
 import java.util.Scanner;
